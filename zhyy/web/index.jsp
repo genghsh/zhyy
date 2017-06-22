@@ -8,5 +8,12 @@
 </head>
 <body>
 hello,boy
+<input type="button" conclick="test();"/>
 </body>
+<script type="text/javascript" src="lib/jquery-1.9.1.min.js"></script>
+<script type="text/javascript">
+function test() {
+	$.ajax();
+}
+</script>
 </html>
