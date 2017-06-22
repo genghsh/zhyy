@@ -13,5 +13,6 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="G:/desktop/培训资料/每日下载/jar/mybatis-3.3.0/mybatis-3.3.0.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
